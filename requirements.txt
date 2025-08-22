@@ -1,0 +1,12 @@
+streamlit
+pandas
+matplotlib
+prophet
+statsmodels
+scikit-learn
+nltk
+requests
+mplfinance
+torch
+transformers
+ta
